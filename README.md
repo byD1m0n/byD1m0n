@@ -1,0 +1,3 @@
+- 👋 Hello hello, I’m @byD1m0n aka Simon.
+- 👀 I’m interested in gaming.
+- 🌱 I’m currently learning C.
